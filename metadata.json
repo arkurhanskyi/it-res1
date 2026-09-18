@@ -1,0 +1,6 @@
+{
+  "name": "IT Квест: Дослідницькі Місії",
+  "description": "Інтерактивний дослідницький веб-квест з інформатики для 5, 6-7 та 8-9 класів: темний лабіринт, мова «Орнамент» та нейролабораторія ШІ (Перцептрон і Deep Learning).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
